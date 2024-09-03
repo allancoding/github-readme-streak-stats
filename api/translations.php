@@ -332,7 +332,6 @@ return [
         "Week Streak" => "Seria Tygodni",
         "Longest Week Streak" => "Najdłuższa Seria Tygodni",
         "Present" => "Dziś",
-        "Excluding {days}" => "Wykluczono {days}",
     ],
     "ps" => [
         "rtl" => true,
